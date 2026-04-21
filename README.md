@@ -1,5 +1,5 @@
 # Hi, I'm Fardeen Mehdi 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=syedfardeenmehdi&label=Profile%20views&color=blue&style=flat)
 💻 Aspiring Full Stack Developer  
 🎓 MCA Student  
 📊 Interested in Web Development & Data-driven Applications  
@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-darkblue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MCA+Student;Machine+Learning+Enthusiast;Always+Learning&center=true&width=500&height=50)
 
 ---
 
@@ -61,3 +62,6 @@
 - I designed a system to store all the information in a way that makes sense.
 
 - I used Hospital Management System and some other tools, like HTML, CSS, PHP and MySQL to build it.
+- ## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/syedfardeenmehdi/syedfardeenmehdi/blob/output/github-contribution-grid-snake.svg)
