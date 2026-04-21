@@ -62,6 +62,3 @@
 - I designed a system to store all the information in a way that makes sense.
 
 - I used Hospital Management System and some other tools, like HTML, CSS, PHP and MySQL to build it.
-- ## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/syedfardeenmehdi/syedfardeenmehdi/blob/output/github-contribution-grid-snake.svg)
