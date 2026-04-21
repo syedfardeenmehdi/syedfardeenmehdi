@@ -1,3 +1,33 @@
+# Hi, I'm Fardeen Mehdi 👋
+
+💻 Aspiring Full Stack Developer  
+🎓 MCA Student  
+📊 Interested in Web Development & Data-driven Applications  
+
+---
+
+## 📊 GitHub Stats
+![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedfardeenmehdi&show_icons=true)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=syedfardeenmehdi)
+
+---
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-darkblue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+---
+
 ## 📌 Projects
 
 ### 🧠 Student Stress Prediction System
