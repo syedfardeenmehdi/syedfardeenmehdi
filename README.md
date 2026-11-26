@@ -1,64 +1,122 @@
 # Hi, I'm Fardeen Mehdi 👋
+
 ![Profile Views](https://komarev.com/ghpvc/?username=syedfardeenmehdi&label=Profile%20views&color=blue&style=flat)
-💻 Aspiring Full Stack Developer  
-🎓 MCA Student  
-📊 Interested in Web Development & Data-driven Applications  
+
+### 🚀 Aspiring DevOps Engineer | Cloud & Infrastructure Automation
+
+🎓 MCA Graduate  
+☁️ Interested in Cloud Computing, DevOps and Infrastructure Automation  
+🐳 Hands-on experience with Docker, Kubernetes, Jenkins and Terraform  
+⚙️ Passionate about CI/CD, Containerization and Automation
 
 ---
 
-## 📊 GitHub Stats
-![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedfardeenmehdi&show_icons=true)
+## 🛠️ Technical Skills
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=syedfardeenmehdi)
+**DevOps & Cloud**
+- Linux | Docker | Docker Compose
+- Kubernetes | Minikube
+- Jenkins | Git | GitHub Actions
+- Terraform | AWS CLI | Floci
 
----
+**Programming & Development**
+- Python | Django | JavaScript
+- HTML | CSS | Bash
+- Java | C | C++
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-darkblue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MCA+Student;Machine+Learning+Enthusiast;Always+Learning&center=true&width=500&height=50)
+**Databases**
+- MySQL | MongoDB | Microsoft SQL Server
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
-### 🧠 Student Stress Prediction System
+### 1. Django Notes Application
 
-- I built a system that can tell how stressed students are using information from life.
+**Tech Stack:** Python | Django | HTML | CSS | JavaScript
 
-- The system has two parts, one for people in charge and one for students, where they can put in information and keep an eye on things.
+- Developed a notes management web application using Django.
+- Implemented backend functionality for managing notes.
+- Worked with Django's Model-View-Template (MVT) architecture.
+- Used Django ORM for database operations.
 
-- It makes reports just for each student and sends emails automatically.
+🔗 **[GitHub Repository](https://github.com/syedfardeenmehdi/django-notes-app)**
 
-- I used Student Stress Prediction System and some other tools like ASP.NET with C# SQL Server and ideas from Machine Learning to make it work.
+### 2. TaskMind AI
+
+**Tech Stack:** Python | Streamlit | AI
+
+- Developed an AI-powered application using Python.
+- Integrated AI capabilities into an interactive application.
+- Worked on application development and user interaction.
+
+🔗 **[GitHub Repository](https://github.com/syedfardeenmehdi/taskmind-ai)**
+
+### 3. Three-Tier EKS Infrastructure as Code
+
+**Tech Stack:** Terraform | Kubernetes | AWS-compatible Floci
+
+- Worked on infrastructure provisioning using Terraform.
+- Explored Amazon EKS architecture and Kubernetes configurations.
+- Worked with VPC, IAM, node groups and infrastructure modules.
+- Used Floci as a local AWS-compatible environment to minimize cloud costs.
+
+🔗 **[GitHub Repository](https://github.com/syedfardeenmehdi/three-tier-eks-iac)**
+
+### 4. Two-Tier Flask Application using Docker
+
+**Tech Stack:** Docker | Docker Compose | Flask | MySQL | GitHub Actions
+
+- Developed a Flask application integrated with MySQL.
+- Containerized the application and database using Docker.
+- Configured Docker Compose for multi-container deployment.
+- Implemented CI/CD using GitHub Actions.
+- Automated Docker image building and publishing to Docker Hub.
+
+🔗 **[GitHub Repository](https://github.com/syedfardeenmehdi/devops-two-tier-flask)**
+
+### 5. AI Dockerfile Generator
+
+**Tech Stack:** Python | Docker | GitHub Actions | Unit Testing
+
+- Developed a Python-based tool to detect Python and Node.js projects.
+- Automated Dockerfile and .dockerignore generation.
+- Implemented unit testing using Python unittest.
+- Configured GitHub Actions for automated testing.
+- Tested generated Docker images for Python and Node.js applications.
+
+🔗 **[GitHub Repository](https://github.com/syedfardeenmehdi/ai-dockerfile-generator)**
+
+### 6. HiveFund – Blockchain-Based Crowdfunding Platform
+
+**Tech Stack:** React | Node.js | Python | MongoDB | Blockchain
+
+- Developed a crowdfunding platform integrating AI-based fraud detection.
+- Implemented machine learning concepts to identify potentially fraudulent campaigns.
+- Worked with blockchain integration for transparent transaction records.
+- Integrated secure payment workflows.
+
+🔗 **[GitHub Repository](https://github.com/syedfardeenmehdi/Hive-fund)**
 
 ---
 
-### 📊 HiveFund Data Analysis Project
+## 📊 GitHub Statistics
 
-- I looked at a lot of information about job listings to find patterns.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfardeenmehdi&show_icons=true&theme=tokyonight)
 
-- First I cleaned up the information then I prepared it for use and after that I analyzed it to understand what it means.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfardeenmehdi&layout=compact&theme=tokyonight)
 
-- I found some information that can help people make good decisions.
-
-- To do all this I used HiveFund Data Analysis Project and some other tools like Python, Pandas and NumPy.
+![GitHub Streak](https://streak-stats.demolab.com/?user=syedfardeenmehdi&theme=tokyonight)
 
 ---
 
-### 🏥 Hospital Management System
+## 🤝 Connect With Me
 
-- I made a website to help hospitals keep track of information and doctor appointments.
+- **LinkedIn:** [Fardeen Mehdi](https://www.linkedin.com/in/fardeen-mehdi-a899b0293/)
+- **GitHub:** [syedfardeenmehdi](https://github.com/syedfardeenmehdi)
 
-- I designed a system to store all the information in a way that makes sense.
+📩 Open to DevOps Intern, DevOps Engineer (Fresher) and Cloud Engineering opportunities.
 
-- I used Hospital Management System and some other tools, like HTML, CSS, PHP and MySQL to build it.
+---
+
+⭐ *Learning, building and automating one project at a time.*
