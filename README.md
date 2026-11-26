@@ -119,22 +119,6 @@ I enjoy working with Linux, Docker, Kubernetes, CI/CD pipelines, and automation 
 ---
 
 ## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenmehdi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfardeenmehdi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedfardeenmehdi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenmehdi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -146,6 +130,9 @@ I enjoy working with Linux, Docker, Kubernetes, CI/CD pipelines, and automation 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=syedfardeenmehdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
+
 
 
 ## 🤝 Connect With Me
